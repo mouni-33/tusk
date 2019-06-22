@@ -14,4 +14,4 @@ int main()
    printf("Given number=%ld\n",temp);
    printf("Its reverse is=%ld\n",reverse);
 return 0;
-}R
+}
